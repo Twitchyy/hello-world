@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+
+Q: How many programmers does it take to change a light bulb?
+A: None - that's a hardware problem.
